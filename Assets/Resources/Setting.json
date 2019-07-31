@@ -1,0 +1,6 @@
+{
+    "PlayerHealth": 100,
+    "PunchDamage": [1, 1, 1, 1, 2],
+    "TwistArmPunch": [1, 1, 2, 2, 2],
+    "MetaPunch": [4, 4, 5, 6, 7]
+}
